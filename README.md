@@ -1,3 +1,11 @@
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Optional Bootstrap JS (for components like dropdowns, modals) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
 <h1 align="center">Hi 👋, I'm Mahmoud Sahraoui</h1>
 <h3 align="center">Full Stack Web Developer | Business & Management Systems Builder</h3>
 
@@ -34,10 +42,10 @@ I enjoy developing systems that help businesses manage data, automate workflows,
 ### 🌎 World Countries Explorer
 Interactive web app that displays global country data with filtering, pagination, and UI dashboard components.
 
-### 🌎 World Countries Explorer
-Interactive country data dashboard.
-
-🔗 <a href="https://mahmoud-sahraoui.github.io/world-countries-explorer/" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+<div class="container text-center mt-5">
+  <h1 class="text-primary">World Countries Explorer</h1>
+  <a href="https://mahmoud-sahraoui.github.io/world-countries-explorer/" class="btn btn-success" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+</div>
 
 
 
