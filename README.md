@@ -44,9 +44,13 @@ Interactive web app that displays global country data with filtering, pagination
 
 <div class="container text-center mt-5">
   <h1 class="text-primary">World Countries Explorer</h1>
-<button class="btn btn-danger" onclick="window.open('https://mahmoud-sahraoui.github.io/world-countries-explorer/', '_blank')">
-  View Live Demo
-</button>
+<a href="https://mahmoud-sahraoui.github.io/world-countries-explorer/" 
+   class="btn btn-danger" 
+   target="_blank" 
+   rel="noopener noreferrer">
+   View Live Demo
+</a>
+
 
 
 </div>
