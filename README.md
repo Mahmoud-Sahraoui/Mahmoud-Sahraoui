@@ -35,7 +35,8 @@ I enjoy developing systems that help businesses manage data, automate workflows,
 Interactive web app that displays global country data with filtering, pagination, and UI dashboard components.
 
 🔗 Live Demo  
-https://mahmoud-sahraoui.github.io/world-countries-explorer/
+🌎 Countries Explorer → <a href="https://mahmoud-sahraoui.github.io/world-countries-explorer/" target="_blank">Live Demo</a>
+
 
 ---
 
