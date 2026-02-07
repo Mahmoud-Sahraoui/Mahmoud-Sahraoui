@@ -15,6 +15,29 @@ I enjoy developing systems that help businesses manage data, automate workflows,
 - 🌍 Based in Algeria
 
 ---
+## 🛠️ Technologies & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Activity & Contributions
+![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Sahraoui&show_icons=true&theme=default)
+
+![Streak](https://streak-stats.demolab.com/?user=Mahmoud-Sahraoui)
+
+---
+
+## 🌍 Featured Projects
+
+### 🌎 World Countries Explorer
+Interactive web app that displays global country data with filtering, pagination, and UI dashboard components.
+
+🔗 Live Demo  
+https://mahmoud-sahraoui.github.io/world-countries-explorer/
+
+---
 
 ## 🧰 Full Stack Development Skills
 
@@ -76,29 +99,7 @@ I enjoy developing systems that help businesses manage data, automate workflows,
 
 ---
 
-## 🛠️ Technologies & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,git,github,vscode" />
-</p>
 
----
-
-## 📊 GitHub Activity & Contributions
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Sahraoui&show_icons=true&theme=default)
-
-![Streak](https://streak-stats.demolab.com/?user=Mahmoud-Sahraoui)
-
----
-
-## 🌍 Featured Projects
-
-### 🌎 World Countries Explorer
-Interactive web app that displays global country data with filtering, pagination, and UI dashboard components.
-
-🔗 Live Demo  
-https://mahmoud-sahraoui.github.io/world-countries-explorer/
-
----
 
 ### 🐔 Poultry Farm Management System
 Web dashboard for tracking:
